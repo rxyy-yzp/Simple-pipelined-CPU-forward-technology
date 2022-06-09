@@ -1,0 +1,3 @@
+[submodule "rtl/myCPU"]
+	path = rtl/myCPU
+	url = https://gitee.com/ucas-ca-edu-lab/my-cpu-lab3.git
